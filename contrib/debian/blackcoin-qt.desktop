@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=VoltCoin
+Comment=VoltCoin P2P Cryptocurrency
+Comment[fr]=VoltCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=VoltCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/voltcoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/voltcoin;
+Categories=Office;

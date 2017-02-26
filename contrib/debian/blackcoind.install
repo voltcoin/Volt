@@ -1,0 +1,2 @@
+debian/bin/voltcoind usr/bin
+src/voltcoind usr/lib/voltcoin

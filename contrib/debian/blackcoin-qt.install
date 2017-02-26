@@ -1,0 +1,5 @@
+voltcoin-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/voltcoin-qt.desktop usr/share/applications
+debian/voltcoin-qt.protocol usr/share/kde4/services/
