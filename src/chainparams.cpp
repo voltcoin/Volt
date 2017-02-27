@@ -81,7 +81,7 @@ public:
         genesis.nTime    = 1488068390;
         genesis.nBits    = bnProofOfWorkLimit.GetCompact();
         genesis.nNonce   = 2388982;
-        nLastPoWBlock    = 70;
+        nLastPoWBlock    = 150;
 
 
 
